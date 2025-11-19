@@ -1,0 +1,13 @@
+{
+    "display_name": "AI Studio Proxy",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Antigravity",
+    "version": "1.0.0",
+    "auto_update": true,
+    "minimum_client_version": "1.0.0"
+}

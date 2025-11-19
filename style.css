@@ -1,0 +1,8 @@
+/* AI Studio Proxy Styles */
+
+.ai-studio-proxy-container {
+    padding: 10px;
+    border: 1px solid var(--smart-theme-border);
+    background-color: var(--smart-theme-bg);
+    color: var(--smart-theme-body-color);
+}
